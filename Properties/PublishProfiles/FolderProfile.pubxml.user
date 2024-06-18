@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\arska\OneDrive\Рабочий стол\Terra.Server\bin\Release\net8.0\publish\</_PublishTargetUrl>
+    <History>True|2024-06-17T16:47:20.3600101Z||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="TerraServerContext">
+      <Value>Server=%28localdb%29\mssqllocaldb%3bDatabase=TerraServerContext-110bee8e-01aa-46d2-9535-b94c4a2409e5%3bTrusted_Connection=True%3bMultipleActiveResultSets=true</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
